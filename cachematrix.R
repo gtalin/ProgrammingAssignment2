@@ -97,3 +97,4 @@ cacheSolve <- function(x, ...) {#x is the modified "matrix" which is really a li
 # #second time it is called, it extracts from cache
 # cacheSolve(modifiedMatrix)
 # #The above answer will be the same as when we do solve(m)
+# Just for a trial commit
